@@ -1,3 +1,3 @@
 # CS180
-# Database Systems I  
-PostreSQL
+Database Systems I  
+PostreSQL  
